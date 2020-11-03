@@ -1,0 +1,9 @@
+pymssql<3.0
+Cython
+robotframework
+robotframework-debuglibrary
+robotframework-pabot
+robotframework-seleniumlibrary
+robotremoteserver
+more-itertools==5.0.0
+pytest-allure-adaptor
